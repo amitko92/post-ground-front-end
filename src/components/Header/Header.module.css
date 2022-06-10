@@ -1,0 +1,62 @@
+.logo{
+    
+}
+
+.header{
+    background-color: #edf6f9;
+    height: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+}
+
+.links > * {
+    display: block;
+    margin-left: 20px;
+}
+
+.links > *:first-child {
+    margin-left: 0px;
+}
+
+.SearchBox{
+
+}
+
+.btnSearch{
+
+    font-size: 1.6rem;
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+}
+
+.inputSearch{
+
+    border: 2px rgb(204, 202, 212) solid;
+    border-radius: 10px;
+    font-size: 1.6rem;
+}
+
+.SigninBox{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.SigninBox > * {
+    display: block;
+    margin-left: 10px;
+}
+
+.SigninBox > *:first-child {
+    margin-left: 0px;
+}
+
+.SigninBoxSeperaitor{
+    
+}

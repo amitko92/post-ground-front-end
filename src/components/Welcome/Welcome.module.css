@@ -1,0 +1,13 @@
+
+.divTitle{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleTest{
+
+    font-size: 3rem;
+}

@@ -1,0 +1,22 @@
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar > * {
+    display: block;
+    margin-left: 10px;
+}
+
+.link{
+
+    text-decoration: none;
+    color: inherit;
+}
